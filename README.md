@@ -1,4 +1,4 @@
-🌤️ Weather App
+# 🌤️ Weather App
 
 A simple and elegant iOS weather application built with SwiftUI using the MVVM design pattern. It fetches real-time weather data based on the user's current location using CoreLocation, or based on any city name entered by the user.
 
